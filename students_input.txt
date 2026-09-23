@@ -1,0 +1,5 @@
+Saloni,95,92
+Amit,88,78
+Vikas,absent,85
+Pooja,92,89
+Rohan,60,N/A
